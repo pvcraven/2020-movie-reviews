@@ -9,8 +9,8 @@ Put some info about your final project here
 
    step_brothers/index
    the_hangover/index
-   chapter3/index
-   chapter4/index
+   lady_bird/index
+   boyhood/index
    chapter5/index
    chapter6/index
    chapter7/index
