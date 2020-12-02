@@ -11,8 +11,8 @@ Put some info about your final project here
    the_hangover/index
    lady_bird/index
    boyhood/index
-   chapter5/index
-   chapter6/index
+   seven_samurai/index
+   the_lighthouse/index
    chapter7/index
    chapter8/index
    chapter9/index
