@@ -13,8 +13,8 @@ Put some info about your final project here
    boyhood/index
    seven_samurai/index
    the_lighthouse/index
-   chapter7/index
-   chapter8/index
+   princessbride/index
+   ferrisbeuller/index
    chapter9/index
 
 

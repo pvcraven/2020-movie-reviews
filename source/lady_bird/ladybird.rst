@@ -2,9 +2,9 @@ Lady Bird
 =========
 
 .. figure:: ladybird.jpg
-   width: 700px
+   :width: 700px
 
-   *Merie Wallace/A24*
+   Lady Bird [#f1]_
 
 “Lady Bird,” tells a coming-of-age story of a young woman, Christine “Lady Bird” McPherson, as she struggles to make plans for her future. Lady Bird wants to leave her hometown of Sacramento and go to college on the east coast, preferably New York. 
 
@@ -18,4 +18,20 @@ Overall, “Lady Bird” is rich with drama but also has enough laughs to break 
 
 “Lady Bird” is not the perfect protagonist by any means, but she manages to invoke an emotional response in viewers.
 
++----------------------------------+-------------------+
+|**Character**                     | **Actor**         |
++==================================+===================+
+| Christine "Lady Bird" McPherson  | Saorirse Ronan    |
++------------------------+------------+----------------+
+| Marion McPherson                 | Laurie Metcalf    |
++------------------------+------------+----------------+
+| Julie Steffans                   | Beanie Feldstein  |
++------------------------+------------+----------------+
+| Larry McPherson                  | Tracy Letts       |
++------------------------+------------+----------------+
+| Danny O'Neill                    | Lucas Hedges      |
++------------------------+------------+----------------+
+| Kyle Scheible                    | Timothee Chalamet |
++------------------------+------------+----------------+
 
+.. [#f1] "`Lady Bird <https://www.nytimes.com/2017/10/31/movies/lady-bird-review-greta-gerwig-saoirse-ronan.html>`_". Merie Wallace/A24. 2017. Retrieved 2020-12-02.
