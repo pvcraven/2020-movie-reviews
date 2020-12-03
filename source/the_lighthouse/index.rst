@@ -4,7 +4,7 @@ The Lighthouse
 .. figure:: lighthouse.jpg
    :width: 50%
 
-   The Lighthouse shot [#f1]_
+   The Lighthouse promotional image [#f1]_
 
 Check this movie out at the website for `A24`_.
 
@@ -73,4 +73,4 @@ Indivual aspects of the film rated 1 to 10
 
 
 
-.. [#f1] "`The Lighthouse shot <https://www.vox.com/culture/2019/10/15/20914097/robert-eggers-lighthouse-interview-witch>`_". A24. 2019. Retrieved 2020-12-2.
+.. [#f1] "`The Lighthouse promotional image <https://www.vox.com/culture/2019/10/15/20914097/robert-eggers-lighthouse-interview-witch>`_". A24. 2019. Retrieved 2020-12-2.
