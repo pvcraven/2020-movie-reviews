@@ -2,9 +2,9 @@ Lady Bird
 =========
 
 .. figure:: ladybird.jpg
-   width: 700px
+   :width: 700px
 
-   *Merie Wallace/A24*
+   *Photograph: Merie Wallace/A24*
 
 “Lady Bird,” tells a coming-of-age story of a young woman, Christine “Lady Bird” McPherson, as she struggles to make plans for her future. Lady Bird wants to leave her hometown of Sacramento and go to college on the east coast, preferably New York. 
 
@@ -17,5 +17,3 @@ Lady Bird is impulsive and often selfish. Despite being the protagonist, Lady Bi
 Overall, “Lady Bird” is rich with drama but also has enough laughs to break the tension on occasion when necessary. What is so successful about “Lady Bird” is the dynamic between Lady Bird and her mother. The viewer is able to see and understand both the views of Lady Bird as well as her mother as they struggle to agree with each other. 
 
 “Lady Bird” is not the perfect protagonist by any means, but she manages to invoke an emotional response in viewers.
-
-
