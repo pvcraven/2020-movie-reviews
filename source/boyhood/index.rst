@@ -4,7 +4,7 @@ Boyhood
 .. figure:: boyhood.jpg
    :width: 700px
    
-   *Photograph: Sportsphoto/Allstar/Universal Pictures*
+   Boyhood [#f1]_
 
 “Boyhood” follows a young boy, Mason, and his family, capturing important family milestones over the course of 12 years. The movie itself was also filmed over the course of 12 years, allowing the viewer to watch the same actors grow up and age in real-time. 
 
@@ -15,3 +15,5 @@ When the story starts, Mason is only 6 years old. By the end of the film, Mason 
 “Boyhood” encapsulates the viewer as they watch the actors age naturally. The changes over time seem slow for adult actors such as Mason’s mother and father, but they are there, no matter how subtle. The viewer sees these changes in their own life. Aging is a universal experience, which is part of what makes “Boyhood” so profound and successful. The movie is not fighting time, but embracing it.
 
 “Boyhood” takes an idea that sounds completely mundane and boring and makes it incredibly unique.
+
+.. [#f1] "`Boyhood <https://www.empireonline.com/movies/reviews/boyhood-review/>`_". Sportsphoto/Allstar/Universal Pictures. 2014. Retrieved 2020-12-02.
