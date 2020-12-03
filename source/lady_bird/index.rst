@@ -17,3 +17,19 @@ Lady Bird is impulsive and often selfish. Despite being the protagonist, Lady Bi
 Overall, “Lady Bird” is rich with drama but also has enough laughs to break the tension on occasion when necessary. What is so successful about “Lady Bird” is the dynamic between Lady Bird and her mother. The viewer is able to see and understand both the views of Lady Bird as well as her mother as they struggle to agree with each other. 
 
 “Lady Bird” is not the perfect protagonist by any means, but she manages to invoke an emotional response in viewers.
+
++----------------------------------+-------------------+
+|**Character**                     | **Actor**         |
++==================================+===================+
+| Christine "Lady Bird" McPherson  | Saorirse Ronan    |
++------------------------+------------+----------------+
+| Marion McPherson                 | Laurie Metcalf    |
++------------------------+------------+----------------+
+| Julie Steffans                   | Beanie Feldstein  |
++------------------------+------------+----------------+
+| Larry McPherson                  | Tracy Letts       |
++------------------------+------------+----------------+
+| Danny O'Neill                    | Lucas Hedges      |
++------------------------+------------+----------------+
+| Kyle Scheible                    | Timothee Chalamet |
++------------------------+------------+----------------+
