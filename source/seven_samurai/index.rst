@@ -1,8 +1,9 @@
 Seven Samurai
 =============
 
-.. image:: sevensamurai.jpg
+.. figure:: sevensamurai.jpg
    
+   Seven Samurai Poster [#f1]_
 
 Read more about this film at the website for `Toho`_.
 
@@ -56,3 +57,4 @@ Individual aspects of the film rated 1 to 10
 
 
 
+.. [#f1] "`Seven Samurai Poster <https://filmartgallery.com/products/the-seven-samurai>`_". Toho Co. 1954. Retrieved 2020-12-2.
